@@ -1,0 +1,60 @@
+body {
+    background-image:url(img/background.jpg) ;
+    background-size: cover;
+}
+
+.back-color {
+    background-color: rgba(0, 0, 0, 0.297);
+}
+
+header {
+    text-align: center;
+    padding:80px;
+}
+
+.img1 {
+ width: 230px;
+}
+
+.title {
+    color: rgb(143, 226, 18);
+    font-size: 30px;
+}
+
+.lineg {
+ background-color: rgb(143, 226, 18);
+}
+
+main {    
+    color: rgb(255, 255, 255);
+    padding-left: 80px;
+}
+
+h2 {
+    display: inline-block;
+}
+
+#carica {
+ background-color: orange;
+}
+    
+#carica1 {
+    width: 250px;
+    height: 20px ;
+    background: orange;
+    border-radius: 10px;
+}
+
+#carica2 {
+    width: 450px;
+    height: 20px ;
+    background: orange;
+    border-radius: 10px;
+}
+
+#carica3 {
+    width: 100px;
+    height: 20px ;
+    background: rgb(255, 0, 0);
+    border-radius: 10px;
+}
